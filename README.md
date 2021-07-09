@@ -1,4 +1,4 @@
-### Hi there 👋!  My name is Lupe. 
+## Hi there 👋!  My name is Lupe. 
 
 <!--
 **lupeluna/lupeluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Developing Data Scientist with a passion for analyzing data and coding.
+
 
 Skills:
-🐍 Python
-🥞 SQL
->>> Command Line
+ * 🐍 Python
+ * 🥞 SQL
+ * Command Line
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lupeluna)
