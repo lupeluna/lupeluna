@@ -1,4 +1,4 @@
-## Hi there 👋!  
+## Hi there!  👋  
 ### My name is Lupe. 
 
 <!--
@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 #### Developing Data Scientist with a passion for analyzing data and coding.
 
 
-Skills:
+#### Skills:
  * 🐍 Python
  * 🥞 SQL
- * Command Line
+ * 💻 Command Line
+ * 📊 Tableau
+
+
+#### STATS:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lupeluna)
