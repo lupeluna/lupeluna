@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### STATS:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lupeluna&theme=gotham)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lupeluna&theme=green_nur&hide_border=true)
 
 #### STREAK:
 
