@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 -->
 #### Developing Data Scientist with a passion for analyzing data and coding.
 
+#### Skills:
+ * 🐍 Python
+ * 🥞 SQL
+ * 💻 Command Line
+ * 📊 Tableau
+
+
+
 
 ### Technical Skills
 ***
@@ -24,11 +32,6 @@ Here are some ideas to get you started:
 
 ![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=plastic&logo=scipy&logoColor=D4EFEB) ![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=plastic&logo=scikit-learn&logoColor=D4EFEB) ![terminal](https://img.shields.io/badge/-Terminal-5F5B8F?style=plastic&logo=apple&logoColor=D4EFEB)  ![tableau](https://img.shields.io/badge/-Tableau-5F5B8F?style=plastic&logo=tableau&logoColor=D4EFEB)  ![excel](https://img.shields.io/badge/-Excel-5F5B8F?style=plastic&logo=microsoft-excel&logoColor=D4EFEB) ![google](https://img.shields.io/badge/-Google_Suite-5F5B8F?style=plastic&logo=google&logoColor=D4EFEB)  
 
-#### Skills:
- * 🐍 Python
- * 🥞 SQL
- * 💻 Command Line
- * 📊 Tableau
 
 
 #### STATS:
