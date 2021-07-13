@@ -1,4 +1,4 @@
-![lupeluna]https://user-images.githubusercontent.com/80718680/125530940-562e67af-ad10-4f4e-bdfe-63c4fc840feb.mp4
+![image](https://user-images.githubusercontent.com/80718680/125530940-562e67af-ad10-4f4e-bdfe-63c4fc840feb.mp4)
 
 
 ## Hi there!  👋    My name is Lupe. 
