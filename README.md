@@ -1,4 +1,4 @@
-![image](https://github.com/lupeluna/README_FILES/blob/main/Images.mp4)
+![image](https://github.com/lupeluna/README_FILES/blob/main/Images2.gif)
 
 
 ## Hi there!  👋    My name is Lupe. 
