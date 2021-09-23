@@ -3,7 +3,7 @@
 
 ## Hi there!  👋    My name is Lupe. 
 ***
-#### Developing Data Science Student with a high interest in analyzing data and coding.
+#### Developing Data Scientist with a high interest in analyzing data and coding.
 
 ### Technical Skills
 
